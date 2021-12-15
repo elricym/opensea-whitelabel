@@ -1,5 +1,5 @@
-export const ASSET_URL =
-  "https://opensea.io/assets/0x1301566b3cb584e550a02d09562041ddc4989b91/28";
+export const ASSET_URL = "https://opensea.io/assets/gaki-chick";
+export const accountAddress = "0xF9530eA194648C5859BE70c6AB03a4ffc7E04284";
 
 export enum EmbedTheme {
   Default = "true",
